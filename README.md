@@ -25,6 +25,4 @@ For inquiries, reach out to **Cognifyz Technologies**:
 - Email: [contact@cognifyz.com](mailto:contact@cognifyz.com)  
 - Website: [www.cognifyz.com](https://www.cognifyz.com)  
 
----
-
-You can copy and paste this into your GitHub repository. Let me know if you need any modifications! 🚀  
+ 
