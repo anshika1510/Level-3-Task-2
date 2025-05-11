@@ -18,7 +18,7 @@ This project is a landing page for the **Web Developer Internship** program at *
 - Footer with contact information  
 
 ## Live Demo  
-Check out the deployed landing page here: [Your Deployed Link](https://effervescent-mochi-a0f9b3.netlify.app/)m)
+Check out the deployed landing page here: [Your Deployed Link](https://effervescent-mochi-a0f9b3.netlify.app/)
 
 ## Contact  
 For inquiries, reach out to **Cognifyz Technologies**:  
